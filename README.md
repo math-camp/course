@@ -1,11 +1,11 @@
 # MACS 33000 - Computational Mathematics and Statistics Camp (Pre-Fall 2018)
 
-|  | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | TA | TA |
-|--------------|----------------------------------------------------|----|----|
-| Email | soltoffbc@uchicago.edu |  |  |
+|  | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | Nora Nickels (TA) | TA |
+|--------------|----------------------------------------------------|-----------------------------------------|----|
+| Email | soltoffbc@uchicago.edu | nnickels@uchicago.edu |  |
 | Office | 209 McGiffert Hall |  |  |
 | Office Hours | TBD |  |  |
-| GitHub | [bensoltoff](https://github.com/bensoltoff) |  |  |
+| GitHub | [bensoltoff](https://github.com/bensoltoff) | [nnickels](https://github.com/nnickels) |  |
 
 * **Meeting day/time**: September 4-21, MTWThF 10-3pm
 * **Location**: TBD
@@ -19,7 +19,7 @@ This course surveys mathematical and statistical tools that are foundational to 
 * Students in the [Masters in Computational Social Science](https://macss.uchicago.edu/)
     * Computational economists seeking to enroll in PhD courses in the Department of Economics should instead enroll in the Economics Doctoral Math Camp
     * All other incoming Computation students are expected to enroll in this math camp
-* [Masters of Arts Program in the Social Sciences](https://mapss.uchicago.edu/) and PhD students who have significant prior training and experience in mathematics and statistics and seek to complete the [Certificate in Computational Social Science](https://macss.uchicago.edu/content/certificate-current-students)
+* MA and PhD students in the social sciences who have significant prior training and experience in mathematics and statistics and seek to complete the [Certificate in Computational Social Science](https://macss.uchicago.edu/content/certificate-current-students)
 * Students looking for a slower-paced camp focused specifically on algebra, calculus, and probability should enroll in SOSC 30100 - Mathematics for Social Sciences. This two-week course runs from September 10-21 and makes no assumption of prior math/stats training. Those of you who struggle with the material of this course may switch after the first week to SOSC 30100.
 
 ## Grades

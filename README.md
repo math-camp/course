@@ -32,12 +32,15 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 ## Core texts
 
+* [Diez, D. M., Barr, C. D., & Cetinkaya-Rundel, M. (2015). *OpenIntro statistics*. Third edition.](https://www.openintro.org/stat/textbook.php?stat_book=os)
+    * OpenIntro Statistics is available as a free PDF online (link above)
+    * You can also purchase a full color hardcover for \$25 dollars on [Amazon](https://www.amazon.com/dp/1943450056/ref=as_li_ss_tl?m=A3EEBE82C3HYRD&linkCode=sl1&tag=open084-20&linkId=7b29e25a1337cfe072736ad493fa32e6)
 * [Gill, Jeff. *Essential mathematics for political and social research*. Cambridge: Cambridge University Press, 2006.](https://doi.org/10.1017/CBO9780511606656)
 
 ## Course schedule
 
 | Date | Topic | Subtopic | Readings | Assignment |
-|----------|-----------------------|---------------------------------------|-----------|------------|
+|----------|-----------------------|---------------------------------------|----------------|------------|
 | Sept. 3 | No class (Labor Day) |  |  |  |
 | Sept. 4 | The basics | Intro to CSS, notation, and functions | Gill ch 1 | PS1 |
 | Sept. 5 | Linear algebra | Vectors, matricies, and operations | Gill ch 3 | PS2 |
@@ -47,9 +50,9 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 11 | Calculus | Optimization |  | PS6 |
 | Sept. 12 | Probability | Probability theory | Gill ch 7 | PS7 |
 | Sept. 13 | Probability | Random variables | Gill ch 8 | PS8 |
-| Sept. 14 | Statistical inference | Data description |  | PS9 |
-| Sept. 17 | Statistical inference | Frequentist statistics |  | PS10 |
-| Sept. 18 | Statistical inference | Linear regression |  | PS11 |
-| Sept. 19 | Statistical inference | Linear regression |  | PS12 |
-| Sept. 20 | Statistical inference | Generalized linear models |  | PS13 |
-| Sept. 21 | Statistical inference | Bayesian inference |  | PS14 |
+| Sept. 14 | Statistical inference | Data description | OpenIntro ch 1 | PS9 |
+| Sept. 17 | Statistical inference | Foundations for statistical inference | OpenIntro ch 4 | PS10 |
+| Sept. 18 | Statistical inference | Inference for numerical data | OpenIntro ch 5 | PS11 |
+| Sept. 19 | Statistical inference | Inference for categorical data | OpenIntro ch 6 | PS12 |
+| Sept. 20 | Statistical inference | Linear regression | OpenIntro ch 7 | PS13 |
+| Sept. 21 | Statistical inference | Logistic regression | OpenIntro ch 8 | PS14 |

@@ -33,9 +33,9 @@ If you need any special accommodations, please provide us with a copy of your Ac
 ## Core texts
 
 * [Diez, D. M., Barr, C. D., & Cetinkaya-Rundel, M. (2015). *OpenIntro statistics*. Third edition.](https://www.openintro.org/stat/textbook.php?stat_book=os)
-    * OpenIntro Statistics is available as a free PDF online (link above)
-    * You can also purchase a full color hardcover for \$25 dollars on [Amazon](https://www.amazon.com/dp/1943450056/ref=as_li_ss_tl?m=A3EEBE82C3HYRD&linkCode=sl1&tag=open084-20&linkId=7b29e25a1337cfe072736ad493fa32e6)
-* [Gill, Jeff. *Essential mathematics for political and social research*. Cambridge: Cambridge University Press, 2006.](https://doi.org/10.1017/CBO9780511606656)
+* [Gill, Jeff. *Essential mathematics for political and social research*. Cambridge: Cambridge University Press, 2006.](https://doi-org.proxy.uchicago.edu/10.1017/CBO9780511606656)
+
+> Electronic copies of both books are available for free at the links above. *OpenIntro statistics* is open-source, while *Essential mathematics* is accessible via the UChicago library (authentication required). Hard copies are available via the campus bookstore or your friendly online retailer.
 
 ## Course schedule
 

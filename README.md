@@ -1,14 +1,13 @@
 # MACS 33000 - Computational Mathematics and Statistics Camp (Pre-Fall 2018)
 
-|  | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | Nora Nickels (TA) | TA |
-|--------------|----------------------------------------------------|-----------------------------------------|----|
-| Email | soltoffbc@uchicago.edu | nnickels@uchicago.edu |  |
-| Office | 209 McGiffert Hall |  |  |
-| Office Hours | TBD |  |  |
-| GitHub | [bensoltoff](https://github.com/bensoltoff) | [nnickels](https://github.com/nnickels) |  |
+|  | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | Sanja Miklin (TA) | Nora Nickels (TA) |  |
+|--------|----------------------------------------------------|----------------------|-----------------------------------------|---|
+| Email | soltoffbc@uchicago.edu | smiklin@uchicago.edu | nnickels@uchicago.edu |  |
+| Office | 209 McGiffert Hall | 205 McGiffert Hall |  |  |
+| GitHub | [bensoltoff](https://github.com/bensoltoff) |  | [nnickels](https://github.com/nnickels) |  |
 
 * **Meeting day/time**: September 4-21, MTWThF 10-3pm
-* **Location**: TBD
+* **Location**: 016 Pick Hall
 
 ## Course description
 

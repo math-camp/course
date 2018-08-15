@@ -4,7 +4,7 @@
 |--------|----------------------------------------------------|----------------------|-----------------------------------------|---|
 | Email | soltoffbc@uchicago.edu | smiklin@uchicago.edu | nnickels@uchicago.edu |  |
 | Office | 209 McGiffert Hall | 205 McGiffert Hall |  |  |
-| GitHub | [bensoltoff](https://github.com/bensoltoff) |  | [nnickels](https://github.com/nnickels) |  |
+| GitHub | [bensoltoff](https://github.com/bensoltoff) | [smiklin](https://github.com/smiklin) | [nnickels](https://github.com/nnickels) |  |
 
 * **Meeting day/time**: September 4-21, MTWThF 10-3pm
 * **Location**: 016 Pick Hall

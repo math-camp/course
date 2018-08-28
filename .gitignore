@@ -128,3 +128,6 @@ ENV/
 .Rproj.user
 
 .DS_Store
+
+# all solution keys
+*key*

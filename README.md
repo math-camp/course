@@ -55,3 +55,12 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 19 | Statistical inference | Inference for categorical data | OpenIntro ch 6 |  | PS12 |
 | Sept. 20 | Statistical inference | Linear regression | OpenIntro ch 7 |  | PS13 |
 | Sept. 21 | Statistical inference | Logistic regression | OpenIntro ch 8 |  | PS14 |
+
+### More detailed readings explanation
+
+* The basics
+    * Read it all
+* Linear algebra
+    * Gill ch 3 - don't worry much about 3.6
+    * Gill ch 4 - don't worry much about 4.9
+    * It might be helpful to skim Gill ch 2.1-2.3.2 for some basic terminology regarding trigonomic functions

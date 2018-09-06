@@ -43,7 +43,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 3 | No class (Labor Day) |  |  |  |  |
 | Sept. 4 | The basics | Intro to CSS, notation, and functions | Gill ch 1 | [Basics](https://htmlpreview.github.io/?https://github.com/math-camp/course/blob/master/slides/basics-slides.html) | [PS1](problem-sets/basics-ps.pdf) |
 | Sept. 5 | Linear algebra | Vectors, matricies, and operations | Gill ch 3 | [Vectors, Matricies, and Operations](https://htmlpreview.github.io/?https://github.com/math-camp/course/blob/master/slides/vectors-slides.html) | [PS2](problem-sets/vectors-ps.pdf) |
-| Sept. 6 | Linear algebra | Matrix structure | Gill ch 4 |  | PS3 |
+| Sept. 6 | Linear algebra | [Matrix structure](https://htmlpreview.github.io/?https://github.com/math-camp/course/blob/master/slides/matrix-structure-slides.html) | Gill ch 4 |  | [PS3](problem-sets/matrix-structure-ps.pdf) |
 | Sept. 7 | Calculus | Single variable | Gill ch 5 |  | PS4 |
 | Sept. 10 | Calculus | Multivariable | Gill ch 6 |  | PS5 |
 | Sept. 11 | Calculus | Optimization |  |  | PS6 |

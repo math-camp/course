@@ -44,12 +44,12 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 4 | The basics | Intro to CSS, notation, and functions | Gill ch 1 | [Basics](https://math-camp.github.io/basics-slides.html) | [PS1](problem-sets/basics-ps.pdf) |
 | Sept. 5 | Linear algebra | Vectors, matricies, and operations | Gill ch 3 | [Vectors, Matricies, and Operations](https://math-camp.github.io/vectors-slides.html) | [PS2](problem-sets/vectors-ps.pdf) |
 | Sept. 6 | Linear algebra | Matrix structure | Gill ch 4 | [Matrix Structure](https://math-camp.github.io/matrix-structure-slides.html) | [PS3](problem-sets/matrix-structure-ps.pdf) |
-| Sept. 7 | Calculus | Single variable | Gill ch 5 |  | PS4 |
+| Sept. 7 | Calculus | Single variable | Gill ch 5 | [Scalar Calculus](https://math-camp.github.io/single-variable-slides.html) | [PS4](problem-sets/single-variable-ps.pdf) |
 | Sept. 10 | Calculus | Multivariable | Gill ch 6 |  | PS5 |
 | Sept. 11 | Calculus | Optimization |  |  | PS6 |
-| Sept. 12 | Probability | Probability theory | Gill ch 7 |  | PS7 |
-| Sept. 13 | Probability | Random variables | Gill ch 8 |  | PS8 |
-| Sept. 14 | Statistical inference | Data description | OpenIntro ch 1 |  | PS9 |
+| Sept. 12 | Statistical inference | Data description | OpenIntro ch 1 |  | PS7 |
+| Sept. 13 | Probability | Probability | OpenIntro ch 2 |  | PS8 |
+| Sept. 14 | Probability | Random variables | OpenIntro ch 3 |  | PS9 |
 | Sept. 17 | Statistical inference | Foundations for statistical inference | OpenIntro ch 4 |  | PS10 |
 | Sept. 18 | Statistical inference | Inference for numerical data | OpenIntro ch 5 |  | PS11 |
 | Sept. 19 | Statistical inference | Inference for categorical data | OpenIntro ch 6 |  | PS12 |

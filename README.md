@@ -45,7 +45,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 5 | Linear algebra | Vectors, matricies, and operations | Gill ch 3 | [Vectors, Matricies, and Operations](https://math-camp.github.io/vectors-slides.html) | [PS2](problem-sets/vectors-ps.pdf) |
 | Sept. 6 | Linear algebra | Matrix structure | Gill ch 4 | [Matrix Structure](https://math-camp.github.io/matrix-structure-slides.html) | [PS3](problem-sets/matrix-structure-ps.pdf) |
 | Sept. 7 | Calculus | Single variable | Gill ch 5 | [Scalar Calculus](https://math-camp.github.io/single-variable-slides.html) | [PS4](problem-sets/single-variable-ps.pdf) |
-| Sept. 10 | Calculus | Multivariable | Gill ch 6 |  | PS5 |
+| Sept. 10 | Calculus | Multivariable | Gill ch 6 | [Multivariable Calculus](https://math-camp.github.io/multi-variable-slides.html) | [PS5](problem-sets/multi-variable-ps.pdf) |
 | Sept. 11 | Calculus | Optimization |  |  | PS6 |
 | Sept. 12 | Statistical inference | Data description | OpenIntro ch 1 |  | PS7 |
 | Sept. 13 | Probability | Probability | OpenIntro ch 2 |  | PS8 |

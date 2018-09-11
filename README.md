@@ -46,13 +46,13 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 6 | Linear algebra | Matrix structure | Gill ch 4 | [Matrix Structure](https://math-camp.github.io/matrix-structure-slides.html) | [PS3](problem-sets/matrix-structure-ps.pdf) |
 | Sept. 7 | Calculus | Single variable | Gill ch 5 | [Scalar Calculus](https://math-camp.github.io/single-variable-slides.html) | [PS4](problem-sets/single-variable-ps.pdf) |
 | Sept. 10 | Calculus | Multivariable | Gill ch 6 | [Multivariable Calculus](https://math-camp.github.io/multi-variable-slides.html) | [PS5](problem-sets/multi-variable-ps.pdf) |
-| Sept. 11 | Calculus | Optimization |  |  | PS6 |
-| Sept. 12 | Statistical inference | Data description | OpenIntro ch 1 |  | PS7 |
-| Sept. 13 | Probability | Probability | OpenIntro ch 2 |  | PS8 |
-| Sept. 14 | Probability | Random variables | OpenIntro ch 3 |  | PS9 |
-| Sept. 17 | Statistical inference | Foundations for statistical inference | OpenIntro ch 4 |  | PS10 |
-| Sept. 18 | Statistical inference | Inference for numerical data | OpenIntro ch 5 |  | PS11 |
-| Sept. 19 | Statistical inference | Inference for categorical data | OpenIntro ch 6 |  | PS12 |
+| Sept. 11 | Calculus | Optimization |  | [Optimization](https://math-camp.github.io/optimization-slides.html) | [PS6](problem-sets/optimization-ps.pdf) |
+| Sept. 12 | Probability | Probability | OpenIntro ch 2 |  | PS7 |
+| Sept. 13 | Probability | Random variables | OpenIntro ch 3 |  | PS8 |
+| Sept. 14 | Statistical inference | Foundations for statistical inference | OpenIntro ch 4 |  | PS9 |
+| Sept. 17 | Statistical inference | Inference for numerical data | OpenIntro ch 5 |  | PS10 |
+| Sept. 18 | Statistical inference | Inference for categorical data | OpenIntro ch 6 |  | PS11 |
+| Sept. 19 | Statistical inference | Linear regression | OpenIntro ch 7 |  | PS12 |
 | Sept. 20 | Statistical inference | Linear regression | OpenIntro ch 7 |  | PS13 |
 | Sept. 21 | Statistical inference | Logistic regression | OpenIntro ch 8 |  | PS14 |
 

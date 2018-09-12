@@ -47,7 +47,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 7 | Calculus | Single variable | Gill ch 5 | [Scalar Calculus](https://math-camp.github.io/single-variable-slides.html) | [PS4](problem-sets/single-variable-ps.pdf) |
 | Sept. 10 | Calculus | Multivariable | Gill ch 6 | [Multivariable Calculus](https://math-camp.github.io/multi-variable-slides.html) | [PS5](problem-sets/multi-variable-ps.pdf) |
 | Sept. 11 | Calculus | Optimization |  | [Optimization](https://math-camp.github.io/optimization-slides.html) | [PS6](problem-sets/optimization-ps.pdf) |
-| Sept. 12 | Probability | Probability | OpenIntro ch 2 |  | PS7 |
+| Sept. 12 | Probability | Probability | OpenIntro ch 2 | [Probability](https://math-camp.github.io/probability-slides.html) | [PS7](problem-sets/probability-ps.pdf) |
 | Sept. 13 | Probability | Random variables | OpenIntro ch 3 |  | PS8 |
 | Sept. 14 | Statistical inference | Foundations for statistical inference | OpenIntro ch 4 |  | PS9 |
 | Sept. 17 | Statistical inference | Inference for numerical data | OpenIntro ch 5 |  | PS10 |

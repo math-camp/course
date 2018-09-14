@@ -49,7 +49,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 11 | Calculus | Optimization |  | [Optimization](https://math-camp.github.io/optimization-slides.html) | [PS6](problem-sets/optimization-ps.pdf) |
 | Sept. 12 | Probability | Probability | OpenIntro ch 2 | [Probability](https://math-camp.github.io/probability-slides.html) | [PS7](problem-sets/probability-ps.pdf) |
 | Sept. 13 | Probability | Random variables | OpenIntro ch 3 | [Random Variables](https://math-camp.github.io/random-variable-slides.html) | [PS8](problem-sets/random-variables-ps.pdf) |
-| Sept. 14 | Statistical inference | Foundations for statistical inference | OpenIntro ch 4 |  | PS9 |
+| Sept. 14 | Statistical inference | Foundations for statistical inference | OpenIntro ch 4 | [Bayesian vs. Frequentist Inference](https://math-camp.github.io/stat-inference-slides.html) | [PS9](problem-sets/stat-inference-ps.pdf) |
 | Sept. 17 | Statistical inference | Inference for numerical data | OpenIntro ch 5 |  | PS10 |
 | Sept. 18 | Statistical inference | Inference for categorical data | OpenIntro ch 6 |  | PS11 |
 | Sept. 19 | Statistical inference | Linear regression | OpenIntro ch 7 |  | PS12 |

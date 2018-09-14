@@ -50,11 +50,11 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 12 | Probability | Probability | OpenIntro ch 2 | [Probability](https://math-camp.github.io/probability-slides.html) | [PS7](problem-sets/probability-ps.pdf) |
 | Sept. 13 | Probability | Random variables | OpenIntro ch 3 | [Random Variables](https://math-camp.github.io/random-variable-slides.html) | [PS8](problem-sets/random-variables-ps.pdf) |
 | Sept. 14 | Statistical inference | Foundations for statistical inference | OpenIntro ch 4 | [Bayesian vs. Frequentist Inference](https://math-camp.github.io/stat-inference-slides.html) | [PS9](problem-sets/stat-inference-ps.pdf) |
-| Sept. 17 | Statistical inference | Inference for numerical data | OpenIntro ch 5 |  | PS10 |
-| Sept. 18 | Statistical inference | Inference for categorical data | OpenIntro ch 6 |  | PS11 |
-| Sept. 19 | Statistical inference | Linear regression | OpenIntro ch 7 |  | PS12 |
-| Sept. 20 | Statistical inference | Linear regression | OpenIntro ch 7 |  | PS13 |
-| Sept. 21 | Statistical inference | Logistic regression | OpenIntro ch 8 |  | PS14 |
+| Sept. 17 | Statistical inference | Inference for numerical/categorical data | OpenIntro ch 5.1-5.3, 6.1-6.4 |  | PS10 |
+| Sept. 18 | Statistical inference | Linear regression | OpenIntro ch 7 |  | PS11 |
+| Sept. 19 | Statistical inference | Linear regression | OpenIntro ch 8.1-8.3 |  | PS12 |
+| Sept. 20 | Statistical inference | Logistic regression | OpenIntro ch 8.4 |  | PS13 |
+| Sept. 21 | Statistical inference | Generalized linear models | |  | PS14 |
 
 ### More detailed readings explanation
 

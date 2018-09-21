@@ -54,7 +54,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 18 | Statistical inference | Linear regression | OpenIntro ch 7 | [Ordinary least squares](https://math-camp.github.io/ols-slides.html) | [PS11](problem-sets/ols-ps.pdf) |
 | Sept. 19 | Statistical inference | Linear regression | OpenIntro ch 8.1-8.3 | [Ordinary least squares](https://math-camp.github.io/ols-diagnostics-slides.html) | [PS12](problem-sets/ols-diagnostics-ps.pdf) |
 | Sept. 20 | Statistical inference | Logistic regression | OpenIntro ch 8.4 | [Logistic regression](https://math-camp.github.io/logistic-regression-slides.html) | [PS13](problem-sets/logistic-regression-ps.pdf) |
-| Sept. 21 | Statistical inference | Generalized linear models | |  | PS14 |
+| Sept. 21 | Statistical inference | Generalized linear models | | [Generalized linear models](https://math-camp.github.io/glm-slides.html) | PS14 |
 
 ### More detailed readings explanation
 

@@ -7,7 +7,7 @@
 | GitHub | [bensoltoff](https://github.com/bensoltoff) |  | [smiklin](https://github.com/smiklin) |  |
 
 * **Meeting day/time**: September 3-20, MTWThF 10-3pm
-* **Location**: 102 Stuart Hall
+* **Location**: 105 Stuart Hall
 
 ## Course description
 

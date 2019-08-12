@@ -16,8 +16,6 @@ This course surveys mathematical and statistical tools that are foundational to 
 ## Who should take this course
 
 * Students in the [Masters in Computational Social Science](https://macss.uchicago.edu/)
-    * Computational economists seeking to enroll in PhD courses in the Department of Economics in their first year should instead enroll in the Economics Doctoral Math Camp
-    * All other incoming Computation students are expected to enroll in this math camp
 * MA and PhD students in the social sciences who have significant prior training and experience in mathematics and statistics and seek to complete the [Certificate in Computational Social Science](https://macss.uchicago.edu/content/certificate-current-students)
 * Students looking for a slower-paced camp focused specifically on algebra, calculus, and probability should enroll in SOSC 30100 - Mathematics for Social Sciences. This two-week course runs from September 9-20 and makes no assumption of prior math/stats training. Those of you who struggle with the material of this course may switch after the first week to SOSC 30100.
 

@@ -1,13 +1,15 @@
 # MACS 33000 - Computational Mathematics and Statistics Camp (Pre-Fall 2019)
 
-|  | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | Shilin Jia (TA) | Sanja Miklin (TA) | TBD (TA) |
-|--------|----------------------------------------------------|-------------------|---------------------------------------|----------|
-| Email | soltoffbc@uchicago.edu | sjia@uchicago.edu | smiklin@uchicago.edu |  |
-| Office | 209 McGiffert Hall |  | 420 Rosenwald Hall |  |
+|  | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | Shilin Jia (TA) | Sanja Miklin (TA) | Jiaxu Han (TA) |
+|--------|----------------------------------------------------|--------------------|---------------------------------------|-----------------------|
+| Email | soltoffbc@uchicago.edu | sjia@uchicago.edu | smiklin@uchicago.edu | hanjiaxu@uchicago.edu |
+| Office | 209 McGiffert Hall | 204 McGiffert Hall | 204 McGiffert Hall |  |
 | GitHub | [bensoltoff](https://github.com/bensoltoff) |  | [smiklin](https://github.com/smiklin) |  |
 
-* **Meeting day/time**: September 3-20, MTWThF 10-3pm
-* **Location**: 105 Stuart Hall
+* Meeting day/time: September 3-20, MTWThF 10-3pm
+* Location
+    * September 3-13: 122 Social Sciences Research Building
+    * September 16-20: 140 Harper Memorial Library
 
 ## Course description
 

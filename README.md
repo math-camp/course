@@ -3,7 +3,7 @@
 |  | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | Shilin Jia (TA) | Sanja Miklin (TA) | Jiaxu Han (TA) |
 |--------|----------------------------------------------------|--------------------|---------------------------------------|-----------------------|
 | Email | soltoffbc@uchicago.edu | sjia@uchicago.edu | smiklin@uchicago.edu | hanjiaxu@uchicago.edu |
-| Office | 209 McGiffert Hall | 204 McGiffert Hall | 204 McGiffert Hall |  |
+| Office | 209 McGiffert Hall | 403 5730 S. Woodlawn | 403 5730 S. Woodlawn |  |
 | GitHub | [bensoltoff](https://github.com/bensoltoff) |  | [smiklin](https://github.com/smiklin) |  |
 
 * Meeting day/time: September 3-20, MTWThF 10-3pm

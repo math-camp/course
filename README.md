@@ -4,7 +4,7 @@
 |--------|----------------------------------------------------|--------------------|---------------------------------------|-----------------------|
 | Email | soltoffbc@uchicago.edu | sjia@uchicago.edu | smiklin@uchicago.edu | hanjiaxu@uchicago.edu |
 | Office | 209 McGiffert Hall | 403 5730 S. Woodlawn | 403 5730 S. Woodlawn |  |
-| GitHub | [bensoltoff](https://github.com/bensoltoff) |  | [smiklin](https://github.com/smiklin) |  |
+| GitHub | [bensoltoff](https://github.com/bensoltoff) | [shevajia](https://github.com/shevajia) | [smiklin](https://github.com/smiklin) | [hanjiaxu](https://github.com/hanjiaxu) |
 
 * Meeting day/time: September 3-20, MTWThF 10-3pm
 * Location
@@ -39,7 +39,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Date | Topic | Subtopic | Readings |
 |----------|-----------------------|------------------------------------------------------------------------|-------------------------------|
 | Sept. 2 | No class (Labor Day) |  |  |
-| Sept. 3 | Linear equations | Linear equations, inequalities, and sets and functions | Pemberton and Rau ch 1.1-.2, 2.1, 3, 4.1-.3 |
+| Sept. 3 | Linear equations | [Linear equations, inequalities, and sets and functions](https://math-camp.github.io/notes/01-functions-sets.html) | Pemberton and Rau ch 1.1-.2, 2.1, 3, 4.1-.3 |
 | Sept. 4 | Linear equations | Quadratics, logarithms, and sequences, series, and limits | Pemberton and Rau ch 4.3-.4, 5 |
 | Sept. 5 | Calculus | Differentiation | Pemberton and Rau ch 6-7 |
 | Sept. 6 | Calculus | Critical points and approximation | Pemberton and Rau ch 8, 10 |

@@ -40,7 +40,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 |----------|-----------------------|------------------------------------------------------------------------|-------------------------------|
 | Sept. 2 | No class (Labor Day) |  |  |
 | Sept. 3 | Linear equations | [Linear equations, inequalities, and sets and functions](https://math-camp.github.io/notes/01-functions-sets.html) | Pemberton and Rau ch 1.1-.2, 2.1, 3, 4.1-.3 |
-| Sept. 4 | Linear equations | Quadratics, logarithms, and sequences, series, and limits | Pemberton and Rau ch 4.3-.4, 5 |
+| Sept. 4 | Linear equations | [Quadratics, logarithms, sequences, and limits](https://math-camp.github.io/notes/02-sequences-limits.html) | Pemberton and Rau ch 4.3-.4, 5 |
 | Sept. 5 | Calculus | Differentiation | Pemberton and Rau ch 6-7 |
 | Sept. 6 | Calculus | Critical points and approximation | Pemberton and Rau ch 8, 10 |
 | Sept. 9 | Linear algebra | Matrix algebra and systems of linear equations | Pemberton and Rau ch 11-12 |

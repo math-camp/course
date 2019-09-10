@@ -44,7 +44,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 5 | Calculus | [Differentiation](https://math-camp.github.io/notes/03-differentiation.html) | Pemberton and Rau ch 6-7 |
 | Sept. 6 | Calculus | [Critical points and approximation](https://math-camp.github.io/notes/04-critical-points.html) | Pemberton and Rau ch 8, 10 |
 | Sept. 9 | Linear algebra | [Matrix algebra](https://math-camp.github.io/notes/05-matrix-algebra.html) | Pemberton and Rau ch 11, 13.3 |
-| Sept. 10 | Linear algebra | Systems of linear equations and determinants | Pemberton and Rau ch 12, 13.1-.2 |
+| Sept. 10 | Linear algebra | [Systems of linear equations and determinants](https://math-camp.github.io/notes/06-matrix-inversion-decomposition.html) | Pemberton and Rau ch 12, 13.1-.2 |
 | Sept. 11 | Calculus | Functions of several variables and optimization with several variables | Pemberton and Rau ch 14, 16 |
 | Sept. 12 | Calculus | Integration and integral calculus | Pemberton and Rau ch 19-20 |
 | Sept. 13 | Probability | Sample space and probability | Bertsekas and Tsitsiklis ch 1 |

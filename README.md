@@ -47,8 +47,8 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 10 | Linear algebra | [Systems of linear equations and determinants](https://math-camp.github.io/notes/06-matrix-inversion-decomposition.html) | Pemberton and Rau ch 12, 13.1-.2 |
 | Sept. 11 | Calculus | [Functions of several variables and optimization with several variables](https://math-camp.github.io/notes/07-multivariable-differentiation.html) | Pemberton and Rau ch 14, 16 |
 | Sept. 12 | Calculus | [Integration and integral calculus](https://math-camp.github.io/notes/08-integration.html) | Pemberton and Rau ch 19-20 |
-| Sept. 13 | Probability | Sample space and probability | Bertsekas and Tsitsiklis ch 1 |
-| Sept. 16 | Probability | Discrete random variables | Bertsekas and Tsitsiklis ch 2 |
+| Sept. 13 | Probability | [Sample space and probability](https://math-camp.github.io/notes/09-sample-space-probability.html) | Bertsekas and Tsitsiklis ch 1 |
+| Sept. 16 | Probability | Discrete random variables | Bertsekas and Tsitsiklis ch 2.1-.4 |
 | Sept. 17 | Probability | General random variables | Bertsekas and Tsitsiklis ch 3 |
 | Sept. 18 | Probability | Limit theorems | Bertsekas and Tsitsiklis ch 5 |
 | Sept. 19 | Statistical inference | Bayesian statistical inference | Bertsekas and Tsitsiklis ch 8 |

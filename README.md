@@ -52,4 +52,4 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Sept. 17 | Probability | [General random variables](https://math-camp.github.io/notes/11-general-random-vars.html) | Bertsekas and Tsitsiklis ch 3.1-.3 |
 | Sept. 18 | Probability | [Multivariate distributions](https://math-camp.github.io/notes/12-multivariate-pdf.html) | Bertsekas and Tsitsiklis ch 2.5-.7, 3.4-5, 4.2, 4.5 |
 | Sept. 19 | Statistical inference | [Classical statistical inference](https://math-camp.github.io/notes/13-frequentist-inference.html) | Bertsekas and Tsitsiklis ch 9 |
-| Sept. 20 | Statistical inference | Bayesian statistical inference | Bertsekas and Tsitsiklis ch 8 |
+| Sept. 20 | Statistical inference | [Bayesian statistical inference](https://math-camp.github.io/notes/14-bayesian-inference.html) | Bertsekas and Tsitsiklis ch 8 |

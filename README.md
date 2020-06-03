@@ -39,20 +39,20 @@ This course is open to all students who meet the academic requirements for parti
 
 ## Course schedule
 
-| Date | Topic | Subtopic | Readings |
-|-|-|-|-|
-| 31-Aug | Linear equations | Linear equations, inequalities, and sets and   functions | Pemberton and Rau ch 1.1-.2, 2.1, 3, 4.1-.3 |
-| 1-Sep | Linear equations | Quadratics, logarithms, sequences, and limits | Pemberton and Rau ch 4.3-.4, 5 |
-| 2-Sep | Calculus | Differentiation | Pemberton and Rau ch 6-7 |
-| 3-Sep | Calculus | Critical points and approximation | Pemberton and Rau ch 8, 10 |
-| 4-Sep | Linear algebra | Matrix algebra | Pemberton and Rau ch 11, 13.3 |
-| 7-Sep | No class (Labor Day) |  |  |
-| 8-Sep | Linear algebra | Systems of linear equations and determinants | Pemberton and Rau ch 12, 13.1-.2 |
-| 9-Sep | Calculus | Functions of several variables and optimization with several variables | Pemberton and Rau ch 14, 16 |
-| 10-Sep | Calculus | Integration and integral calculus | Pemberton and Rau ch 19-20 |
-| 11-Sep | Probability | Sample space and probability | Bertsekas and Tsitsiklis ch 1 |
-| 14-Sep | Probability | Discrete random variables | Bertsekas and Tsitsiklis ch 2.1-.4 |
-| 15-Sep | Probability | General random variables | Bertsekas and Tsitsiklis ch 3.1-.3 |
-| 16-Sep | Probability | Multivariate distributions | Bertsekas and Tsitsiklis ch 2.5-.7, 3.4-5, 4.2,   4.5 |
-| 17-Sep | Statistical inference | Classical statistical inference | Bertsekas and Tsitsiklis ch 9 |
-| 18-Sep | Statistical inference | Bayesian statistical inference | Bertsekas and Tsitsiklis ch 8 |
+| Date | Topic | Subtopic |
+|-|-|-|
+| 31-Aug | Linear equations | Linear equations, inequalities, and sets and functions |
+| 1-Sep | Linear equations | Quadratics, logarithms, sequences, and limits |
+| 2-Sep | Calculus | Differentiation |
+| 3-Sep | Calculus | Critical points and approximation |
+| 4-Sep | Linear algebra | Matrix algebra |
+| 7-Sep | No class (Labor Day) |  |
+| 8-Sep | Linear algebra | Systems of linear equations and determinants |
+| 9-Sep | Calculus | Functions of several variables and optimization with several variables |
+| 10-Sep | Calculus | Integration and integral calculus |
+| 11-Sep | Probability | Sample space and probability |
+| 14-Sep | Probability | Discrete random variables |
+| 15-Sep | Probability | General random variables |
+| 16-Sep | Probability | Multivariate distributions |
+| 17-Sep | Statistical inference | Classical statistical inference |
+| 18-Sep | Statistical inference | Bayesian statistical inference |
